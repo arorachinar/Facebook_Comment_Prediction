@@ -1,2 +1,4 @@
 # Facebook_Comment_Prediction
-Building a regression model to predict how many comments a post will have in next H hours
+Building a regression model to predict how many comments a post will have in next H hours.
+
+Data in the social networking services is increasing day by day. So, there is heavy requirement to study the highly dynamic behavior of the users towards these services. This work is a preliminary work to study and model the user activity patterns. We had targeted the most active social networking service ‘Facebook’ importantly the ‘Facebook Pages’ for analysis. The task here is to estimate the comment count that a post is expected to receive in next few hours. The analysis is done by modeling the comment patterns using variety of regressive modeling techniques. The regression model was built from scratch and optimised using gradient descent algorithm. Efficient value for the learning parameter and the convergence criteria was also determined.
